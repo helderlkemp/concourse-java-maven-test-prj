@@ -3,7 +3,7 @@ resources:
   - name: git-repo
     type: git
     source:
-      uri: https://github.com/helderklemp/concourse-java-maven-test-prj.git
+      uri: https://github.com/helderkemp/concourse-java-maven-test-prj.git
       branch: master
   - name: time
     type: time
